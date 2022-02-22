@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nagarjuna Sagar</h1>
-<h3 align="center">A passionate Machine Learning Learner from India</h3>
+<h3 align="center">A passionate Machine Learning Enthisiast </h3>
 
-- 🔭 I’m currently working on [On-Device Crop_Disease Identifier Application](https://github.com/Nagarjunasagar/Crop-disease-Identification-using-On-Device-Machine-Learning)
+- 🔭 I’m currently working on [Data science Projects](https://github.com/Nagarjunasagar/Crop-disease-Identification-using-On-Device-Machine-Learning)
 
 - 🌱 I’m currently learning **Machine Learning | Deep Learning | Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nagarjunasagar](https://github.com/Nagarjunasagar)
+- 👨‍💻 All of my projects are available at [github-Nagarjunasagar](https://github.com/Nagarjunasagar)
 
 - 💬 Ask me about **Machine Learning, Tensorflow**
 
