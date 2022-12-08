@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as [Machine Learning Engineer](https://www.linkedin.com/in/nagarjunasagar/)
 
-- 🌱 Present field of working  ** Machine Learning | Deep Learning | NLP | Computer Vision **
+- 🌱 Present field of working  **Machine Learning | Deep Learning | NLP | Computer Vision**
 
 - 👨‍💻 All of my projects are available at [github-Nagarjunasagar](https://github.com/Nagarjunasagar)
 
