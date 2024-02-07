@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nagarjuna Sagar</h1>
 <h3 align="center">AI Geek </h3>
 
-- 🔭 I’m currently working as [Machine Learning Engineer](https://www.linkedin.com/in/nagarjunasagar/)
+- 🔭 Currently working as [Artificial Intelligence Engineer](https://www.linkedin.com/in/nagarjunasagar/)
 
-- 🌱 Present field of working  **Machine Learning | Deep Learning | NLP | Computer Vision**
+- 🌱 Mainly focusing on  **Machine Learning | Deep Learning | NLP | Computer Vision | Sensor Fusion**
 
 - 👨‍💻 All of my projects are available at [github-Nagarjunasagar](https://github.com/Nagarjunasagar)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision**
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision and Sensor Fusion**
 
 - 📫 How to reach me **sagrvr@gmail.com**
 
