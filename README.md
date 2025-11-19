@@ -1,40 +1,62 @@
-<h1 align="center">Nagarjuna Here </h1>
-<h2 align="center">AI, Autonomous vehicles & Robotics </h2>
+<h1 align="center">Nagarjuna Sagar</h1>
+<h3 align="center">Manager – Sensor Fusion & Perception Systems | Autonomous Vehicles & Robotics</h3>
 
-- 🔭 Currently working as [Artificial Intelligence Engineer](https://www.linkedin.com/in/nagarjunasagar/)
+---
 
-- 🌱 Mainly focusing on  **Machine Learning | Deep Learning | NLP | Computer Vision | Sensor Fusion**
+### 🚀 About Me  
+I am a Senior Perception & Sensor Fusion Engineer with experience building **end-to-end autonomous perception systems** for real-world robotics and autonomous vehicle applications. My work spans **multi-sensor fusion, edge AI deployment, robotics middleware, 3D vision, and distributed perception architectures**.
 
-- 👨‍💻 All of my projects are available at [github-Nagarjunasagar](https://github.com/Nagarjunasagar)
+Currently, I lead the **Sensor Fusion & Perception Systems** team, focusing on scalable autonomy across ground, marine and robotics platforms.
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision and Sensor Fusion**
+---
 
-- 📫 How to reach me **sagrvr@gmail.com**
+### 🔬 **Key Focus Areas**
+- Autonomous Vehicle Perception  
+- Multi-Sensor Fusion (Camera, LiDAR, Radar, GPS/INS)  
+- Computer Vision & Deep Learning  
+- Distributed & Edge Perception  
+- ROS / DDS-based Robotics Software  
+- Real-Time AI Systems  
+- Agentic AI for Robotics Intelligence  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nagarjunasagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagarjunasagar" height="30" width="40" /></a>
-<a href="https://kaggle.com/nagarjunasagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nagarjunasagar" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Tech  STACK: </h3>
+### 🏆 **Highlighted Projects**
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p>
+#### **Autonomous Surveillance Boat (ASV)**   
+Led perception & fusion stack development for an **autonomous surveillance marine vehicle**, including:  
+- Multi-camera + LiDAR + Radar fusion  
+- BEV fusion pipeline for 360° situational awareness  
+- Distributed perception nodes running on embedded NVIDIA platforms  
+- Real-time object detection & tracking (YOLOv12, deepSORT, custom CV pipelines)  
+- Marine obstacle detection, path perception & autonomy integration  
+- System simulation using MATLAB + Gazebo  
+- Mission execution through ROS2 + DDS communication  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjunasagar&show_icons=true&locale=en&layout=compact" alt="nagarjunasagar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagarjunasagar&show_icons=true&locale=en" alt="nagarjunasagar" /></p>
+### 🛠️ **Tech Stack & Tools**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagarjunasagar&" alt="nagarjunasagar" /></p>
+**AI / Deep Learning**  
+- PyTorch, TensorFlow, YOLOv12, BEV Fusion, CV Pipelines  
 
-<!--- 👋 Hi, I’m @Nagarjunasagar
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Datascience
-- 💞️ I’m looking to collaborate on Datascience and Machince learning Projects which helps to enhance my skills in the field
-- 📫 reach me @ sagrvr@gmail.com   https://www.linkedin.com/in/nagarjunasagar --->
+**Robotics & Middleware**  
+- ROS2, DDS, Gazebo, NVIDIA Jetson, Edge AI  
 
-<!---
-Nagarjunasagar/Nagarjunasagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Programming**  
+- C++, Python, QT Framework  
+
+**Simulation & Modeling**  
+- MATLAB, Gazebo Sim, RViz, Isaac tools  
+
+**System Architecture**  
+- Distributed Perception Stack, Edge Deployment, Real-time Systems  
+- Product Leadership & Technical Roadmap Ownership  
+
+---
+
+### 📫 Contact  
+- **Email:** sagrvr@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/nagarjunasagar  
+- **GitHub:** https://github.com/Nagarjunasagar  
+
