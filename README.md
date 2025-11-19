@@ -1,5 +1,5 @@
 <h1 align="center">Nagarjuna Here </h1>
-<h2 align="center">AI and Autonomous vehicles and Robotics </h2>
+<h2 align="center">AI, Autonomous vehicles & Robotics </h2>
 
 - 🔭 Currently working as [Artificial Intelligence Engineer](https://www.linkedin.com/in/nagarjunasagar/)
 
