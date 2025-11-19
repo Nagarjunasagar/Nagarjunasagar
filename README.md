@@ -3,14 +3,14 @@
 
 ---
 
-### 🚀 About Me  
+### About Me  
 I am a Senior Perception & Sensor Fusion Engineer with experience building **end-to-end autonomous perception systems** for real-world robotics and autonomous vehicle applications. My work spans **multi-sensor fusion, edge AI deployment, robotics middleware, 3D vision, and distributed perception architectures**.
 
 Currently, I lead the **Sensor Fusion & Perception Systems** team, focusing on scalable autonomy across ground, marine and robotics platforms.
 
 ---
 
-### 🔬 **Key Focus Areas**
+### **Key Focus Areas**
 - Autonomous Vehicle Perception  
 - Multi-Sensor Fusion (Camera, LiDAR, Radar, GPS/INS)  
 - Computer Vision & Deep Learning  
@@ -21,7 +21,7 @@ Currently, I lead the **Sensor Fusion & Perception Systems** team, focusing on s
 
 ---
 
-### 🏆 **Highlighted Projects**
+### **Highlighted Projects**
 
 #### **Autonomous Surveillance Boat (ASV)**   
 Led perception & fusion stack development for an **autonomous surveillance marine vehicle**, including:  
@@ -35,7 +35,7 @@ Led perception & fusion stack development for an **autonomous surveillance marin
 
 ---
 
-### 🛠️ **Tech Stack & Tools**
+### **Tech Stack & Tools**
 
 **AI / Deep Learning**  
 - PyTorch, TensorFlow, YOLOv12, BEV Fusion, CV Pipelines  
